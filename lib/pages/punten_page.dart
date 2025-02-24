@@ -9,7 +9,7 @@ class PuntenPage extends StatelessWidget {
       appBar: AppBar(title: Text('Punten & Leaderboards')),
       body: Center(
         child: Text(
-          'Hier komen de punten en leaderboards!',
+          'dit is een test nog een test!',
           style: TextStyle(fontSize: 24),
         ),
       ),

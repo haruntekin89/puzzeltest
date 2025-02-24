@@ -7,7 +7,7 @@ class PuzzelsPage extends StatelessWidget {
     {'naam': 'Lingo', 'icon': Icons.spellcheck},
     {'naam': 'Sudoku', 'icon': Icons.grid_on},
     {'naam': 'Kruiswoord', 'icon': Icons.text_fields},
-    {'naam': 'Cryptogram', 'icon': Icons.lock},
+    {'naam': 'TESTPUZZEL', 'icon': Icons.lock},
     {'naam': 'Woordzoeker', 'icon': Icons.search},
     {'naam': 'Codebreker', 'icon': Icons.vpn_key},
     {'naam': 'Legcijferpuzzel', 'icon': Icons.calculate},
