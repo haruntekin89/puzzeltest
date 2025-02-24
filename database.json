@@ -1,0 +1,6 @@
+{
+  "spelers": {
+    "user1": { "gebruikersnaam": "Jan", "punten": 150 },
+    "user2": { "gebruikersnaam": "Piet", "punten": 200 }
+  }
+}
