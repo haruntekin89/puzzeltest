@@ -9,7 +9,7 @@ class ShopPage extends StatelessWidget {
       appBar: AppBar(title: Text('Shop')),
       body: Center(
         child: Text(
-          'Hier kun je punten inwisselen voor prijzen!',
+          'TEST!',
           style: TextStyle(fontSize: 24),
         ),
       ),
